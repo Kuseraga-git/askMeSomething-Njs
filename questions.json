@@ -1,0 +1,578 @@
+{
+    "histoire" : [
+	{
+	    "question": "De quand date l'appel du Général de Gaulle ?",
+	    "rep1" : {
+		"text" : "10 Juin 1940",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "22 Juin 1940",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "18 Juin 1940",
+		"res" : true
+	    },
+	    "rep4" : {
+		"text" : "22 Juillet 1940",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quand a démaré la seconde guerre mondiale ?",
+	    "rep1" : {
+		"text" : "1 septembre 1939",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "3 septembre 1939",
+		"res" : true
+	    },
+	    "rep3" : {
+		"text" : "5 septembre 1939",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Aucune des réponses",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quand est ce que l'Allemagne a envahi la pologne ?",
+	    "rep1" : {
+		"text" : "1 aout 1939",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "15 aout 1939",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "1 septembre 1939",
+		"res" : true
+	    },
+	    "rep4" : {
+		"text" : "15 septembre 1939",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "De quand date le droit de vote des femmes en France ?",
+	    "rep1" : {
+		"text" : "Avril 1946",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Avril 1944",
+		"res" : true
+	    },
+	    "rep3" : {
+		"text" : "Mai 1946",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Mai 1944",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel est le dernier pays a avoir accordé le droit de vote aux femmes ?",
+	    "rep1" : {
+		"text" : "France",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Allemagne",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Tunisie",
+		"res" : true
+	    },
+	    "rep4" : {
+		"text" : "Arabie Saoudite",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "En quelle année s'est produit la bataille de Marignan ?",
+	    "rep1" : {
+		"text" : "1515",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "1516",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "1517",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "1518",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quand est ce que Charlemagne est devenu empereur ?",
+	    "rep1" : {
+		"text" : "815",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "801",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "800",
+		"res" : true
+	    },
+	    "rep4" : {
+		"text" : "799",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "QQui est l'homme qui a découvert l'Amérique ?",
+	    "rep1" : {
+		"text" : "Christophe Colomb",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Amerigo Vespucci",
+		"res" : true
+	    },
+	    "rep3" : {
+		"text" : "Vasco De Gama",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Marco Polo",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel roi de France était surnommé Saint Louis ?",
+	    "rep1" : {
+		"text" : "Louis IX",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Louis X",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Louis XI",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Louis XII",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "De quand date la construction de Rome ?",
+	    "rep1" : {
+		"text" : "753",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "-753",
+		"res" : true
+	    },
+	    "rep3" : {
+		"text" : "-217",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "217",
+		"res" : false
+	    }
+	}
+    ],
+    "jeuxvideo" : [ 
+	{
+	    "question":"Dans quel serie de jeux, incarne-t-on un petit personnage vert ne savant pas parler et criant quand il frappe ?",
+	    "rep1" : {
+		"text" : "Zelda",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Mars Attack",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Cetelem",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Link",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel personnage célébrissime est le cousin d'un plombier rouge ?",
+	    "rep1" : {
+		"text" : "Mario",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Luigi",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Bowser",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Wario",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Dans quel serie de jeux incarne-t-on un personnage nommé Samus ?",
+	    "rep1" : {
+		"text" : "Metroid",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Halo",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Castlevania",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Monster Hunter",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Dans le dernier Deus EX (Human Devided) comment s'appelle le héros ?",
+	    "rep1" : {
+		"text" : "RIP",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Alex Kid",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Adam Warlock",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Adam Jensen",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Quel console est a l'heure actuelle la console la plus vendue au monde ?",
+	    "rep1" : {
+		"text" : "La Nintendo switch",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "La Xbox One",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "La playstation 4",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "La nintendo gameboy",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel superhéros a eu droit a un jeu nommé Arkham Knight ?",
+	    "rep1" : {
+		"text" : "Spieder-man",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Iron Man",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Deadpool",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Batman",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Comment s'appelle le hérisson noire dans l'univers Sonic ?",
+	    "rep1" : {
+		"text" : "Shadow",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Chao",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Tails",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Eggman",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel personnage féminin explore des tombes et des trésors dans l'univers du jeux vidéo ?",
+	    "rep1" : {
+		"text" : "Alice",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Bayonetta",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Cortana",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Lara Croft",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Quel assassin emblématique porte une cravate rouge et est chauve ?",
+	    "rep1" : {
+		"text" : "Hitman",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Slenderman",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Sam Fisher",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Desmond Miles",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Dans Starcraft 2, quel est le nom de la race humaine ?",
+	    "rep1" : {
+		"text" : "Zerg",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Protoss",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Tyranide",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Terran",
+		"res" : true
+	    }
+	}
+    ],
+    "faitsdivers" : [ 
+	{
+	    "question":"Y-a-t-il dejà eu des tornades en France ?",
+	    "rep1" : {
+		"text" : "oui",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "non",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "faut pas exagérer",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "La réponse D",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Dans Starcraft 2, quel est le nom de la race humaine ?",
+	    "rep1" : {
+		"text" : "Zerg",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Protoss",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Tyranide",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Terran",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Quel pays en proie à la guerre civile est bombardé par la France ?",
+	    "rep1" : {
+		"text" : "La Syrie",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "L'Irak",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "L'Israël",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Le Liban",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel pays a déclenché le printemps arabe ?",
+	    "rep1" : {
+		"text" : "Algérie",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Liban",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Maroc",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Tunisie",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Quel est l'actuel président des Etats-Unis ?",
+	    "rep1" : {
+		"text" : "Donald Trump",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "Barack Obama",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "George W. Bush",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Bill Clinton",
+		"res" : false
+	    }
+	},
+	{
+	    "question": "Quel est l'actuel président français ?",
+	    "rep1" : {
+		"text" : "Jean-Marie Le Pen",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "Jean-Luc Mélanchon",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "Alain Jupé",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "Emmanuel Macron",
+		"res" : true
+	    }
+	},
+	{
+	    "question":"Combien d'états compte l'Union Européenne ?",
+	    "rep1" : {
+		"text" : "6",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "26",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "27",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "28",
+		"res" : true
+	    }
+	},
+	{
+	    "question": "Comment s'appelait le tout premier ancêtre de l'Usion Européenne ?",
+	    "rep1" : {
+		"text" : "La CEE (La Communauté Economique Européenne",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "La CEE (La Communauté Européenne Economique)",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "la CECA (La Communauté Européenne du Charbon et de l'Acier)",
+		"res" : true
+	    },
+	    "rep4" : {
+		"text" : "la CECA (La Communauté Economique du Charbon et de l'Acier)",
+		"res" : false
+	    }
+	},
+	{
+	    "question":"Combien d'année de règne a eut la reine Victoria ?",
+	    "rep1" : {
+		"text" : "60",
+		"res" : false
+	    },
+	    "rep2" : {
+		"text" : "61",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "62",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "63",
+		"res" : true
+	    }
+	},
+	{
+	    "question": "En quel année la France a-t-elle gagné la coupe du monde de football ?",
+	    "rep1" : {
+		"text" : "1998",
+		"res" : true
+	    },
+	    "rep2" : {
+		"text" : "2006",
+		"res" : false
+	    },
+	    "rep3" : {
+		"text" : "2010",
+		"res" : false
+	    },
+	    "rep4" : {
+		"text" : "2018",
+		"res" : false
+	    }
+	}
+    ]
+}
