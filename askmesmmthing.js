@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-var program = require('commander')
+// var program = require('commander')
+const { program } = require('commander')
 fs = require('fs')
 const readline = require('readline')
 
@@ -99,7 +100,7 @@ function jeuxvideoQuizz(questions)
 
 function faitsdiversQuizz(questions)
 {
-    var rand = randInt(0, NBJEUXVIDEOS)
+    var rand = randInt(0, NBFAITSDIVERS)
 
     var q = questions.faitsdivers[rand].question
     var r1 = questions.faitsdivers[rand].rep1
@@ -125,7 +126,7 @@ function faitsdiversQuizz(questions)
 async function main()
 {
     try {
-	const questions = await getJson()
+		const questions = await getJson()
 	if (program.histoire)
 	    histoireQuizz(questions)
 	else if (program.jeuxvideo)
@@ -135,16 +136,16 @@ async function main()
 	else {
 	    var rand = randInt(0, 3)
 	    if (rand == 0)
-		histoireQuizz(questions)
+			histoireQuizz(questions)
 	    else if (rand == 1)
-		jeuxvideoQuizz(questions)
+			jeuxvideoQuizz(questions)
 	    else if (rand == 2)
-		faitsdiversQuizz(questions)
+			faitsdiversQuizz(questions)
 	    else
-		console.log('Erreur')
+			console.log('Erreur')
 	}
     } catch (e) {
-	console.error('FAIL')
+		console.error('FAIL')
     }
 }
 
